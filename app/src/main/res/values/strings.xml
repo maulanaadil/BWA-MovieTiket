@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">BWA MOV</string>
+    <string name="lanjutkan">LANJUTKAN</string>
+    <string name="lewati_perkenalan">LEWATI PERKENALAN</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="pre_sale">Pre Sale Tiket</string>
+    <string name="now_playing_deskripsi">Lebih mudah untuk mengetahui\nfilm yang sedang tampil</string>
+    <string name="memulai">MEMULAI</string>
+    <string name="cashless">CASHLESS</string>
+    <string name="cashless_deskripsi">Gunakan e-wallet untuk\ntranksaksi tiket nonton</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="photo">Photo</string>
+    <string name="upload_nanti">UPLOAD NANTI</string>
+    <string name="welcome">Welcome,\nMaulana Adil</string>
+    <string name="simpan_dan_lanjutkan">SIMPAN DAN LANJUTKAN</string>
+    <string name="synopsis">Eight years after the death of District Attorney Harvey Dent
+Batman has disappeared. Organized crime has been
+eradicated in Gotham City thanks to the Dent Act giving
+expanded powers to the police.</string>
+    <string name="pilih_bangku">Pilih Bangku</string>
+    <string name="batman">Batman : Dark knight</string>
+    <string name="beli_tiket">BELI TIKET</string>
+    <string name="checkout">Checkout</string>
+    <string name="bayar_sekarang">BAYAR SEKARANG</string>
+    <string name="batalkan">BATALKAN</string>
+    <string name="when">When</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="cinema">Cinema</string>
+    <string name="seats">Seats</string>
+    <string name="e_wallet">E-Wallet</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="saldo_kurang">Saldo pada E-Wallet kamu tidak mencukupi
+\nuntuk melakukan transaksi</string>
+    <string name="payment_success">Payment Success !</string>
+    <string name="payment_success_desk">Tiket berhasil dibeli\ndan selamat menonton</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="simpan_data_baru">SIMPAN DATA BARU</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="history">HISTORY</string>
+    <string name="daftar_akun_baru">DAFTAR AKUN BARU</string>
+    <string name="masuk_akun">MASUK AKUN</string>
+    <string name="logo">logo</string>
+    <string name="password">Password</string>
+    <string name="nama">Nama</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="comingSoon">Coming Soon</string>
+</resources>
