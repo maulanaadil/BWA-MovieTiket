@@ -9,7 +9,6 @@ import com.maulnad.bwamov.home.dashboard.DashboardFragment
 import kotlinx.android.synthetic.main.activity_home.*
 
 class HomeActivity : AppCompatActivity() {
-
     private var adil: String ="Maulana"
 
     override fun onCreate(savedInstanceState: Bundle?) {
